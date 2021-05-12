@@ -1,5 +1,5 @@
 - 👋 Name: Paul Brown
-- :alien: Role: Dad, Husband, Software developer
+- :alien: Roles: Dad, Husband, Software developer
 - 👀 Interests: Mainframes, Security, Networking
 - :sunglasses: Hobbies: Watching F1:car:, Gaming (No Man's Sky:rocket:), and Reading:book:
 
